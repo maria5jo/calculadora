@@ -8,6 +8,7 @@ body{
   display:flex;
   justify-content: center;
   align-items: center;
+  background-color:#FFE7E3
 }
 .container{
   top: 50px;
